@@ -11,6 +11,9 @@
   '^':
     'prefix': '^'
     'body': '^($1) $2'
+  '%%':
+    'prefix': '%%'
+    'body': '%% $1\n\n$2\n\n\n% section end: \'$1\''
   'case':
     'prefix': 'case'
     'body': 'case ${2:\'${3:string}\'}\n\t$0'
