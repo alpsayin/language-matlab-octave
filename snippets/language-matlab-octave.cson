@@ -8,9 +8,6 @@
   'try … catch … end':
     'prefix': 'try'
     'body': 'try \n\t$1\ncatch \n\t$0\nend'
-  'unwind_protect … cleanup … end':
-    'prefix': 'unwind'
-    'body': 'unwind_protect \n\t$1\nunwnd_protect_cleanup \n\t$0\nend_unwind_protect'
   '^':
     'prefix': '^'
     'body': '^($1) $2'
