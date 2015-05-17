@@ -1,4 +1,4 @@
-# atom.io language-matlab-octave package
+# atom.io language-matlab-only package
 
 Optimized for Atom
 Matlab only
