@@ -1,7 +1,7 @@
 {
   "name": "language-matlab-only",
   "version": "0.1.2",
-  "description": "Support for Matlab languages converted from TextMate Bundle and optimized for Atom",
+  "description": "Support for Matlab languages converted from TextMate Bundle and optimized for Atom: I forked this repofrom thedavidprice and noticed that it's not working very nice (maybe a windows issue..). I dont use octave, so I just got rid of octave parts and also modified some snippets to work properly under Atom",
   "repository": "https://github.com/alpsayin/language-matlab-only",
   "license": "MIT",
   "engines": {
