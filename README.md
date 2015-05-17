@@ -1,6 +1,6 @@
 # atom.io language-matlab-only package
 
-I forked this repofrom thedavidprice and noticed that it's not working very nice (maybe a windows issue..).
+I forked this repo from thedavidprice and noticed that it's not working very nice (maybe a windows issue..).
 
 I dont use octave, so I just got rid of octave parts and also modified some snippets to work properly under Atom (i.e. as far as I understand, atom cant -yet- get filename or things like that in snippets).
 
