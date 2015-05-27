@@ -9,7 +9,7 @@ As time passes I might add more snippets to it.
 I also found out that best syntax to go with this language pack is the sublime-default-syntax (https://atom.io/themes/sublime-default-syntax)
 
 Features:
-- Optimized for Atom (removed TextMark specific stuff)
+- Optimized for Atom (removed TextMate specific stuff)
 - Matlab only
 
 Atom.io language support for Matlab only converted from TextMate Bundle:
